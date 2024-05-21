@@ -1,5 +1,6 @@
 ## Hidup Bagaikan:
 
+<img align="right" alt="GIF" src="https://github.com/Yoga913/Yoga913/blob/main/techstack.gif" width="360px"/>
    |   | A | B | C | D | E | F | G | H |
    | - | - | - | - | - | - | - | - | - |
    | 8 | ![A8](https://github.com/Yoga913/Yoga913/blob/main/gambar_catur/r_hitam.png) | ![B8](https://github.com/Yoga913/Yoga913/blob/main/gambar_catur/n_hitam.png) | ![C8](https://github.com/Yoga913/Yoga913/blob/main/gambar_catur/b_hitam.png) | ![D8](https://github.com/Yoga913/Yoga913/blob/main/gambar_catur/q_hitam.png) | ![E8](https://github.com/Yoga913/Yoga913/blob/main/gambar_catur/k_hitam.png) | ![F8](https://github.com/Yoga913/Yoga913/blob/main/gambar_catur/b_hitam.png) | ![G8](https://github.com/Yoga913/Yoga913/blob/main/gambar_catur/n_hitam.png) | ![H8](https://github.com/Yoga913/Yoga913/blob/main/gambar_catur/r_hitam.png) |
