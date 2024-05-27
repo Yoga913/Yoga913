@@ -1,8 +1,8 @@
 <h1 align="center">Hai,Saya👋 YogaArfiyanto</h1>
 <h3 align="center"> 👨 💻Saya Seorang Pelajar Teknologi Informasi Dari Indoneisa 🇮🇩 </h3>
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yoga913&theme=onedark" alt="yoga913" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy.vercel.app/?username=yoga91&username=yoga91">
+    <img src="https://github-profile-trophy.vercel.app/?username=yoga913&theme=radical&no-bg=true" alt="yoga913" />
   </a>
 </p>
 
