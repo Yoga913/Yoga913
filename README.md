@@ -1,6 +1,7 @@
 # YogaArfiyanto&nbsp;
 
-<h1 align="center">Hai,Saya👋 YogaArfiyanto</h1>
+<h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hallo Dunial!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>
+
 <h3 align="center"> 👨 💻Saya Seorang Pelajar Teknologi Informasi Dari Indoneisa 🇮🇩 </h3>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy.vercel.app/?username=yoga91&username=yoga91">
