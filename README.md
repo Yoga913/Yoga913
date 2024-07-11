@@ -1,6 +1,6 @@
 # YogaArfiyanto&nbsp;
 
-<h1 align="center"><img src="https://github.com/Yoga913/Yoga913/blob/main/Hi.gif" width="29px"> **Hallo Dunial!** &nbsp;<img src="https://github.com/Yoga913/Yoga913/blob/main/Earth.gif" width="24px"></h1>
+<h1 align="center"><img src="https://github.com/Yoga913/Yoga913/blob/main/Hi.gif" width="29px"> "Hallo Dunial!" &nbsp;<img src="https://github.com/Yoga913/Yoga913/blob/main/Earth.gif" width="24px"></h1>
 
 <h3 align="center"> 👨 💻Saya Seorang Pelajar Teknologi Informasi Dari Indoneisa 🇮🇩 </h3>
 <p align="left">
